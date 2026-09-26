@@ -1,0 +1,14 @@
+{
+  "name": "expulsar-bot",
+  "version": "1.0.0",
+  "description": "Bot que coleta IDs de usuarios que nunca ficaram online e expulsa contas mortas/falsas via /expulsar",
+  "author": "@Xesteer",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
